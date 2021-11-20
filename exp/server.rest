@@ -1,0 +1,29 @@
+### get admin
+GET http://localhost:3000/admin
+###
+
+### get admin com id
+GET http://localhost:3000/admin/250
+###
+
+### POST admin
+POST http://localhost:3000/admin
+Content-Type: application/json
+
+{
+    "login":"amandagama",
+    "password":"123456"
+}
+###
+
+### patch admin
+PATCH  http://localhost:3000/admin/250
+###
+
+### put admin
+PUT  http://localhost:3000/admin/250
+###
+
+### delete admin
+DELETE http://localhost:3000/admin/250
+###
