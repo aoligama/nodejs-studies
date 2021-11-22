@@ -12,7 +12,7 @@ This repo contains all exercises that I'm doing and will do during graduation an
 - [Events](https://github.com/aoligama/nodejs-studies/tree/main/events)
 - [PUG Layouts](https://github.com/aoligama/nodejs-studies/tree/main/exp)
 - [FS](https://github.com/aoligama/nodejs-studies/tree/main/fs)
-- [HTTP]https://github.com/aoligama/nodejs-studies/tree/main/http
+- [HTTP](https://github.com/aoligama/nodejs-studies/tree/main/http)
 - [Modules](https://github.com/aoligama/nodejs-studies/tree/main/modules)
 - [Path](https://github.com/aoligama/nodejs-studies/tree/main/path)
 - [REST API](https://github.com/aoligama/nodejs-studies/tree/main/rest-api)
